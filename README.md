@@ -10,7 +10,7 @@ Time table for connect to virtual meetings and alarm
 * 따라서 매 시간마다 주소를 타이핑하거나 해당 주소를 저장해놓은 곳으로 이동해서 사용하지 않아도 되는 어플 개발을 목표로 했습니다.
 
 ## 벤치마킹
-
+![image](https://user-images.githubusercontent.com/68540423/124749717-8a4b2600-df5f-11eb-8f99-158c436984af.png)
 ## SWOT 분석
 
 * Strength
@@ -38,5 +38,26 @@ Time table for connect to virtual meetings and alarm
 * 강의시작 N분전 알림이 작동하고, 팝업된 창을 클릭시 해당 강의의 화상강의 주소로 이동가능
 
 * 알림이 몇 분전에 울릴지, 울리지 않게 하거나, 진동, 소리 등의 알림과 관련된 설정 조작
+
+## 흐름도
+![image](https://user-images.githubusercontent.com/68540423/124750333-4b69a000-df60-11eb-8aa8-d7b75a6d4d81.png)
+
+## DB
+<img src = "https://user-images.githubusercontent.com/68540423/124752078-5c1b1580-df62-11eb-9a58-ef6d28cd69fe.png" width ="400" />         <img src = "https://user-images.githubusercontent.com/68540423/124750399-5f150680-df60-11eb-843a-4d27621b9fb6.png" width ="400" />
+
+## 클래스 다이어그램
+![image](https://user-images.githubusercontent.com/68540423/124750503-7fdd5c00-df60-11eb-9454-debe66c8aee9.png)
+
+## 구현 결과
+![image](https://user-images.githubusercontent.com/68540423/124750758-cf238c80-df60-11eb-96a5-37ea0a518f4a.png)
+![image](https://user-images.githubusercontent.com/68540423/124750767-d0ed5000-df60-11eb-928b-b046949b6d22.png)
+![image](https://user-images.githubusercontent.com/68540423/124751114-3b9e8b80-df61-11eb-9c7d-6b5d23de6db6.png)
+![image](https://user-images.githubusercontent.com/68540423/124751239-5cff7780-df61-11eb-8b61-15aebef1b472.png)
+![image](https://user-images.githubusercontent.com/68540423/124751306-6e488400-df61-11eb-957f-ef6c5ffbae4c.png)
+![image](https://user-images.githubusercontent.com/68540423/124751438-989a4180-df61-11eb-92f4-f5bfc3a5595b.png)
+![image](https://user-images.githubusercontent.com/68540423/124751550-b798d380-df61-11eb-905d-c5c0120d772a.png)
+![image](https://user-images.githubusercontent.com/68540423/124751621-d008ee00-df61-11eb-95ad-fca8f0ddf7f7.png)
+![image](https://user-images.githubusercontent.com/68540423/124751658-db5c1980-df61-11eb-81ea-7d4e1023b876.png)
+
 
 
